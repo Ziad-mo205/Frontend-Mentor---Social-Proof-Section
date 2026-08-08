@@ -43,4 +43,4 @@ Throughout this project, I:
 
 - 🌐 **Live Site:** https://frontend-mentor-social-proof-sectio-kappa.vercel.app/
 - 💻 **Repository:** https://github.com/Ziad-mo205/Frontend-Mentor---Social-Proof-Section.git
-- 🎯 **Frontend Mentor Solution:**
+- 🎯 **Frontend Mentor Solution:** https://www.frontendmentor.io/solutions/responsive-social-proof-page-using-media-queries-bmWOK3eLLy
